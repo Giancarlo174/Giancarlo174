@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF&size=30&center=true&vCenter=true&width=600&lines=👨‍💻Hola,+Soy+Giancarlo+Santillana;🚀Desarrollador+de+Software&duration=3000&pause=1000&vCenter=true"/>
+</h1>
 
-<!--
-**Giancarlo174/Giancarlo174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧙‍♂️ Sobre Mí
 
-Here are some ideas to get you started:
+- 🎓 Soy un desarrollador y gestor de software en formación, apasionado por la tecnología y la innovación... pero más por el café 💻☕. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Aplico UI/UX, modelado UML y arquitecturas como MVC para crear soluciones reales centradas en el usuario y la lógica del negocio.  
+
+- 📈 Experiencia con CI/CD (Vercel), metodologías ágiles (Scrum), y herramientas como Jira, Trello y GitHub.  
+
+- 🌐 Bilingüe (Español nativo, Inglés B2).
+
+---
+
+### 🔮 Tecnologías y Herramientas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,python,kotlin,mysql,postgres,supabase" />
+</div>
+
+---
+
+### 💬 Contacto
+
+<p align="center">
+  <a href="https://giancarlosantillana.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-%2300ffff?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/giancarlo-santillana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:santillanagiancarlo50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📈 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giancarlo174&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giancarlo174&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancarlo174&layout=compact&theme=radical" />
+</div>
+
+---
+
+> *“Crear software es más que escribir código: es resolver problemas con estilo.”* 🧠⚡... y con un poquito de estrés, 38 pestañas abiertas y un patito de goma 🐥
