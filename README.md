@@ -38,16 +38,4 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giancarlo174&show_icons=true&theme=radical&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giancarlo174&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancarlo174&layout=compact&theme=radical" />
-</div>
-
----
-
 > *“Crear software es más que escribir código: es resolver problemas con estilo.”* 🧠⚡... y con un poquito de estrés, 38 pestañas abiertas y un patito de goma 🐥
