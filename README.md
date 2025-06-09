@@ -38,4 +38,4 @@
 
 ---
 
-> *“Crear software es más que escribir código: es resolver problemas con estilo.”* 🧠⚡... y con un poquito de estrés, 38 pestañas abiertas y un patito de goma 🐥
+> *“Crear software es más que escribir código: es resolver problemas con estilo.”* 🧠⚡... y con algo de estrés, 38 pestañas abiertas y un patito de goma 🐥
